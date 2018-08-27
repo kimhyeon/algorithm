@@ -2,4 +2,4 @@
 .vscode/
 
 # ignore class files
-.class
+*.class
